@@ -1,3 +1,5 @@
+### Hello
+This is Flarenix, a graphics enthusiast.
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cs,cpp,py,arduino,matlab,pr,ps,cmake,blender,md,bash,git,linux,vscode,electron,&perline=14)
 
