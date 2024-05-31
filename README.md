@@ -1,5 +1,5 @@
 
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,py,md,bash,git,linux,vscode,electron,wasm&perline=14)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,py,md,bash,git,linux,vscode,electron,arduino&perline=14)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Flarenix&show_icons=true&theme=radical" />
